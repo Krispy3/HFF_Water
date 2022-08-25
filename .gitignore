@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # water data
-/data/
 /FSM.ipynb/
 /VAR Model.ipynb/
 /documents/
