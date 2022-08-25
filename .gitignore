@@ -130,3 +130,7 @@ dmypy.json
 
 # water data
 /data
+/FSM.ipynb
+/VAR Model.ipynb
+/documents
+/scratch.ipynb
